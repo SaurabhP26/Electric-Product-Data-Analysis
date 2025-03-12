@@ -8,8 +8,8 @@
 
 ## Data Preparation
 - [x] Create sample electric product dataset
-- [ ] Implement data cleaning and standardization scripts
-- [ ] Develop PySpark data processing scripts
+- [x] Implement data cleaning and standardization scripts
+- [x] Develop data processing scripts
 
 ## Data Modeling
 - [ ] Design star schema data model

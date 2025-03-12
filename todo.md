@@ -22,11 +22,11 @@
 - [x] Add filtering and interactive features
 
 ## Testing and Deployment
-- [ ] Test project functionality
-- [ ] Deploy project to hosting platform
+- [x] Test project functionality
+- [x] Deploy project to hosting platform
 - [ ] Share GitHub repository and hosting link
 
 ## Documentation
-- [ ] Create README.md with project overview
-- [ ] Document code and functions
-- [ ] Add usage instructions
+- [x] Create README.md with project overview
+- [x] Document code and functions
+- [x] Add usage instructions

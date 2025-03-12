@@ -3,11 +3,11 @@
 ## Setup and Configuration
 - [x] Gather project requirements
 - [x] Set up development environment
-- [ ] Initialize GitHub repository
-- [ ] Create project structure
+- [x] Configure GitHub repository
+- [x] Create project structure
 
 ## Data Preparation
-- [ ] Create sample electric product dataset
+- [x] Create sample electric product dataset
 - [ ] Implement data cleaning and standardization scripts
 - [ ] Develop PySpark data processing scripts
 

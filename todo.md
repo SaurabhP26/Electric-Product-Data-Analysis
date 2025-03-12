@@ -12,9 +12,9 @@
 - [x] Develop data processing scripts
 
 ## Data Modeling
-- [ ] Design star schema data model
-- [ ] Implement data model structure
-- [ ] Optimize query performance
+- [x] Design star schema data model
+- [x] Implement data model structure
+- [x] Optimize query performance
 
 ## Dashboard Development
 - [ ] Create interactive dashboard layout
